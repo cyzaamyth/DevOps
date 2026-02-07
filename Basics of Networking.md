@@ -12,8 +12,7 @@
         
         - Network Layer - It acts as a medium.
         
-        - Data Link Layer - to communicate both should have this.
-        - Cables and routers
+        - Data Link Layer - to communicate both should have this. Cables and routers
         
         - Physical Layer - devices such as cables, mobiles, etc.
 - **TCP/IP Model** - This is how internet actually works practically.
