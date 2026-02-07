@@ -16,4 +16,5 @@
     - For continuous integration and deployment use Jenkins.
     - Use Terraform to automate the things.
     - Infrastructure is ready then use Ansible to deploy the code automatically.
-    
+
+    #### Keep Learning! Keep Hacking!</br>
