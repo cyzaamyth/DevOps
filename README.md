@@ -3,7 +3,8 @@
     - DevOps is a mechanism or a process which allows you fill the gap between Development team and Operations team, by rightly using automation, infrastructure, scaling, cloud platforms and so on.
         - It is a mindset or culture of automation and scalability.
     
-    ![image.png](attachment:8583adfe-ce58-4de6-8788-12ea523843aa:image.png)
+    <img width="1000" height="515" alt="image" src="https://github.com/user-attachments/assets/0a21e0e9-a959-4ec3-b6d9-4f7df73d4dac" />
+
     
     - How to become DevOps engineer?
         - Develop a mindset and start automating your daily jobs. Learn and master the tools used by DevOps engineer.
